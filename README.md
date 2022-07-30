@@ -1,4 +1,4 @@
-<img width="179" alt="LOGOBE" src="https://user-images.githubusercontent.com/100645448/181915743-245c617a-cc5d-4a99-84cb-31206292e39e.png">
+<img align="center" width="179" alt="LOGOBE" src="https://user-images.githubusercontent.com/100645448/181915743-245c617a-cc5d-4a99-84cb-31206292e39e.png">
 <h1 align="center"> Projeto Be! English </h1> 
 
 ## Descrição do Projeto
